@@ -3,5 +3,21 @@ body {
 }
 
 h2 {
-  background: #1460aa;
+  background: #747b83;
+}
+
+.photo {
+  max-width: 300px;
+}
+
+.idea_photo {
+  max-width: 80px;
+}
+
+.calendar_icon {
+  max-width: 80px;
+}
+
+.git_icon {
+  max-width: 80px;
 }
